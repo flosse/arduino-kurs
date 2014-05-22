@@ -9,6 +9,7 @@ Microcontrollern und Sensoren**.
 - [Arduino](http://arduino.cc)
     - [Software Download](http://arduino.cc/en/Main/Software)
     - [Arduino Ethernet Board Datenblatt](http://arduino.cc/en/Main/ArduinoBoardEthernet)
+    - [USB-Serial Adapter Datenblatt](http://arduino.cc/en/Main/USBSerial)
 
 - [fritzing](http://fritzing.org/)
     - [Projekte](http://fritzing.org/projects/)
