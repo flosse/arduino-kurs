@@ -15,6 +15,7 @@ Microcontrollern und Sensoren**.
     - [Projekte](http://fritzing.org/projects/)
     - [Software Download](http://fritzing.org/download/)
     - [Taschenbuch](http://shop.fritzing.org/collections/books/products/einfuhrung-in-den-kreativen-umgang-mit-elektronik)
+    - [CreatorKit Beispiel-Dateien](https://github.com/FritzingOrg/creatorkit-code)
 
 - Allgemeine Beispiele
     - [Polar-Plotter](http://roxen.github.io/polar-plotter/)
