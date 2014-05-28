@@ -15,6 +15,7 @@ Microcontrollern und Sensoren**.
     - [Projekte](http://fritzing.org/projects/)
     - [Software Download](http://fritzing.org/download/)
     - [Taschenbuch](http://shop.fritzing.org/collections/books/products/einfuhrung-in-den-kreativen-umgang-mit-elektronik)
+      ([PDF-Download](http://fritzing.org/media/uploads/downloads/Fritzing_Creator_Kit_Download_DE.pdf) - 5,7MB)
     - [CreatorKit Beispiel-Dateien](https://github.com/FritzingOrg/creatorkit-code)
 
 - Allgemeine Beispiele
