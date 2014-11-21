@@ -10,6 +10,9 @@ Microcontrollern und Sensoren**.
     - [Software Download](http://arduino.cc/en/Main/Software)
     - [Arduino Ethernet Board Datenblatt](http://arduino.cc/en/Main/ArduinoBoardEthernet)
     - [USB-Serial Adapter Datenblatt](http://arduino.cc/en/Main/USBSerial)
+- [ReadBearLab Blend](http://redbearlab.com/blend/)
+    - [Getting Started](http://redbearlab.com/getting-started-blend)
+    - [Android App](http://redbearlab.com/app/android) / [iOS App](http://redbearlab.com/app/ios)
 
 - [fritzing](http://fritzing.org/)
     - [Projekte](http://fritzing.org/projects/)
